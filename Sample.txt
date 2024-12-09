@@ -1,0 +1,16 @@
+** Spam Examples:- **
+
+1. "Earn points for the beecrowd Honeypot monthly prize!"  
+2. "Europe 3/4/5 nights sailings with Costa Cruise! Starting from €269 p.p. Kids below 18 cruise for FREE. Book now!"
+3. "Unlock exclusive insights at the Modern Investor Summit. Limited time offer!"  
+4. "Congratulations! You've won $1,000. Click here to claim your prize!"
+5. "Act now to receive your free gift. Offer ends soon!"
+
+
+** Not Spam Examples:- **
+
+1. "We’re excited to introduce a new feature on our website! You can now get a verified company badge on your profile." 
+2. "This badge will display your company’s name and logo, showing others where you work."
+3. "At last year’s Modern Investor Summit, we brought you insights from top minds in finance. This year, we're raising the bar even higher."  
+4. "Reminder: Your subscription to our newsletter is set to renew on January 1. Thank you for being a valued subscriber!"
+5. "Check out our latest blog post for actionable tips on boosting productivity at work." 
