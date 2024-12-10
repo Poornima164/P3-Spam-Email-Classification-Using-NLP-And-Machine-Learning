@@ -30,7 +30,7 @@ With the growing volume of email communication, distinguishing between useful me
 2. **Create a Virtual Environment**
    - Open your terminal or Anaconda Prompt and run:
      ```bash
-     conda create --name spam-classifier-env python=3.8
+     conda create --name spam-classifier-env python=3.12
      ```
    - Activate the newly created environment:
      ```bash
@@ -40,11 +40,11 @@ With the growing volume of email communication, distinguishing between useful me
 3. **Clone the Repository**
    - Clone the project repository to your local machine:
      ```bash
-     git clone https://github.com/your-repo/P3-Spam-Email-Classification.git
+     git clone https://github.com/Poornima164/P3-Spam-Email-Classification-Using-NLP-And-Machine-Learning.git
      ```
    - Navigate into the project directory:
      ```bash
-     cd P3-Spam-Email-Classification
+     cd P3-Spam-Email-Classification-Using-NLP-And-Machine-Learning
      ```
 
 4. **Install Required Libraries**
@@ -69,7 +69,7 @@ With the growing volume of email communication, distinguishing between useful me
 7. **Run the Streamlit App**
    - Launch the spam detection app with Streamlit:
      ```bash
-     streamlit run spamdetector.py
+     streamlit run spamDetector.py
      ```
 
 ---
@@ -80,7 +80,7 @@ With the growing volume of email communication, distinguishing between useful me
 1. Run the Jupyter notebooks one by one within VS Code or Jupyter to process and analyze the data.
 2. After completing the notebook execution, use Streamlit to launch the spam detector app:
    ```bash
-   streamlit run spamdetector.py
+   streamlit run spamDetector.py
 
 ### **Example Output**
 Below is a screenshot of the spam detector in action:
