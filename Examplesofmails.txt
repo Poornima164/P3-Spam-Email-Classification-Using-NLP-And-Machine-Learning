@@ -1,0 +1,15 @@
+Spam Examples:
+
+1. Lose 10 kg in just 10 days with this magical pill! Order now! 
+2. Upgrade your internet speed to 1Gbps for just $1/month! Limited time offer. Click here!  
+3. Get rich quick! Invest $100 today and earn $10,000 by next week. Guaranteed results!  
+4. Your account has been flagged for suspicious activity. Verify your information immediately to avoid closure.  
+5. Hurry! Exclusive deal just for you: Buy one smartphone, get one free! Offer ends in 24 hours!  
+
+Not Spam Examples:  
+
+1. We are updating our privacy policy to better serve you. Please review the changes here.  
+2. Congratulations on reaching your 5th anniversary with us! We’re thrilled to celebrate your milestone.  
+3. Don’t forget: Your quarterly meeting with the project team is scheduled for tomorrow at 3 PM.  
+4. We’ve noticed you haven’t logged in for a while. Explore new features we’ve recently launched!  
+5. Thank you for your feedback on our latest product. Your suggestions help us improve!  
